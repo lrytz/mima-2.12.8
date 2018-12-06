@@ -1,0 +1,2 @@
+sbt 'set scalaVersion := "2.12.6"' 'set version := s"0.0.1-SNAPSHOT"' publishLocal
+sbt 'set scalaVersion := "2.12.8"' 'set version := s"0.0.2-SNAPSHOT"' mimaReportBinaryIssues
